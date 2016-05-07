@@ -8,32 +8,32 @@ date:   2016-05-05 22:11:43 -0700
 *   **Jauntful**  
     Helping people and businesses share their favorite local recommendations.  
     <span class="platform">CEO, Responsive Web, Print, Branding</span>  
-    [» Sign up today](https://jauntful.com/).
+    [&raquo; Sign up today](https://jauntful.com/).
 
 *   **Accellion KiteWorks**  
     Allowing teams anywhere to store, share, and access files with enterprise-level security and processes. Method, 2012.  
     <span class="platform">iOS</span>  
-    [» Visit KiteWorks](http://www.accellion.com/solutions/for-enterprise-it).
+    [&raquo; Visit KiteWorks](http://www.accellion.com/solutions/for-enterprise-it).
 
 *   **Global Lives Project**  
     Creating a holistic identity able to live and grow in an interactive space. Method, 2012.  
     <span class="platform">Branding, Web, WordPress</span>  
-    [» Visit Global Lives](http://globallives.org/).
+    [&raquo; Visit Global Lives](http://globallives.org/).
 
 *   **Google Cultural Institute**  
     Devising new ways to explore exhibits and collections from museums and archives all around the world. Method, 2012.  
     <span class="platform">Concepting, Web</span>  
-    [» Visit Google Cultural Institute](https://www.google.com/culturalinstitute/u/0/home).
+    [&raquo; Visit Google Cultural Institute](https://www.google.com/culturalinstitute/u/0/home).
 
 *   **Heath Ceramics**  
     Empowering an artisan brand with a robust e-commerce experience. Method, 2011.  
     <span class="platform">Branding, Web, Magento</span>  
-    [» Visit Heath Ceramics](http://www.heathceramics.com/).
+    [&raquo; Visit Heath Ceramics](http://www.heathceramics.com/).
 
 *   **GoogleTV 3.0**  
     Redefining home entertainment at the intersection of TV and Internet. Method, 2011.  
     <span class="platform">TV, Android</span>  
-    [» Visit Google TV](http://www.android.com/tv/).
+    [&raquo; Visit Google TV](http://www.android.com/tv/).
 
 *   **Nokia Homegrown**  
     Working towards the most sustainable, ethical and desirable communication solutions for Nokia by placing sustainability first. Nokia, 2008.  

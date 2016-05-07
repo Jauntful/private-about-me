@@ -31,4 +31,4 @@ date:   2016-05-05 22:11:43 -0700
 
 *   **Homegrown.**  
     September 6, 2008 presentation to the **[LIFT Asia](http://www.liftconference.com/lift-asia-08)** conference session “Aiming for a better society” in Jeju-do, South Korea.  
-    [» Watch the talk on Liftconference.com](http://www.liftconference.com/homegrown-nokia-design-project).
+    [&raquo; Watch the talk on Liftconference.com](http://www.liftconference.com/homegrown-nokia-design-project).
