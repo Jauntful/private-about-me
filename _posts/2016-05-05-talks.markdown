@@ -1,0 +1,34 @@
+---
+layout: default
+title:  "Talks"
+date:   2016-05-05 22:11:43 -0700
+---
+##### Talks
+
+*   **The Designer as Founder and CEO**  
+    Feb 9, 2015 talk at **[Interaction15](http://interaction15.ixda.org/)** in San Francisco, USA.
+
+*   **Design Led Startups**  
+    Nov 6, 2013 talk at **[The Family](http://thefamily.co)** in Paris, France.
+
+*   **Design x Startups**  
+    Jun 20, 2013 Talk at **CEDIM Innovation Series** in Mexico City, Mexico.
+
+*   **Social Media / Social Change.**  
+    Mar 25-26, 2011 talk and thinkshop at **[AIGA Y16:Spark Conference](http://y-conference.com/y16/)** in San Diego, USA.
+
+*   **Beyond the Desktop.**  
+    October 9, 2009 “Beyond the Desktop” affinity session with [Jennifer Bove](http://www.kickerstudio.com/team.html), [Jody Forlizzi](http://goodgestreet.com/) and [Jake Barton](http://www.localprojects.net/lpV2/) at **[AIGA “Make/Think” conference](http://designconference2009.aiga.org/)** in Memphis, USA.
+
+*   **Small things x Big numbers.**  
+    September 6, 2009 keynote at **[Kyoorius DesignYatra 2009](http://www.designyatra.com/)** in Mumbai, India.
+
+*   **Sustainable and Ethical Issues When Designing for the Masses.**  
+    June 12, 2009 closing plenary at **[Usability Professionals’ Association – 2009 International Conference](http://www.usabilityprofessionals.org/conference/2009)** in Portland, USA.
+
+*   **Utile, Utilisé, Utilisable.**  
+    March 11, 2009 keynote at **[Le Mobile 2.0](http://www.lemobile20.com/)** in Paris, France organised by [Christophe Romei](http://www.servicesmobiles.fr/).
+
+*   **Homegrown.**  
+    September 6, 2008 presentation to the **[LIFT Asia](http://www.liftconference.com/lift-asia-08)** conference session “Aiming for a better society” in Jeju-do, South Korea.  
+    [» Watch the talk on Liftconference.com](http://www.liftconference.com/homegrown-nokia-design-project).

@@ -1,0 +1,31 @@
+---
+layout: default
+title:  "Talks"
+date:   2016-05-05 22:11:43 -0700
+---
+##### Academia & Workshops
+
+*   **Customer Relevance.**
+    **[Master in Business Innovation](http://www.cedim.edu.mx/posgrado/maestrias/master-in-business-innovation/descripcion/)** Module 2, 2013-2014, at **[CEDIM](http://www.cedim.edu.mx/)** in Monterrey, Mexico City, Guadalajara, Mexico.
+
+*   **To Be Designed**
+    Oct 1-5, 2012 design fiction product design workshop with **[Near Future Laboratory](http://nearfuturelaboratory.com/)** and **[Penny W. Stamps School of Art & Design](http://art-design.umich.edu/)** in Detroit, USA.
+
+*   **Industrial Design 6 Course.**
+    Teaching **[CCA](http://www.cca.edu/academics/industrial-design)**‘s Undergraduate Program Industrial Design 6 course Spring 2013 with Colin Owen, Robert Murdock, and Parul Vora in San Francisco, USA.
+
+*   **Introduction pratique aux usages du design.**
+    Week long workshop taught jointly with [Nicolas Nova](http://liftlab.com/think/nova/) at **[ENSCI – Les Ateliers](http://www.ensci.com/)**, 2011-2013 in Paris, France.
+
+*   **Designing for Billions.**
+    February 4, 2010 workshop at **[Interaction10](http://interaction.ixda.org/)** in Savannah, USA.
+
+<h5 class="patents">Granted Patents</h5>
+
+*   **A mobile terminal, and an associated method, with means for modifying a behavior pattern of a multi-medial user interface**
+    (**Granted**, Republic Of Korea, 02 Nov 2009, [0925759](http://www.wipo.int/pctdb/en/wo.jsp?wo=2006070240))
+
+*   **System and method for assigning contact information to an external device**
+    (**Granted**, USA, 13 Feb 2007, [US Pat. 7177597](http://www.google.com/patents?id=7ut-AAAAEBAJ&pg=PA1&lpg=PA1&dq=US+Pat.+7177597&source=bl&ots=LKMY_ldnnX&sig=YOaeIVFT1-L497nyCok-EJ1citM&hl=en&sa=X&oi=book_result&resnum=4&ct=result))
+
+And **eight pending patents**.

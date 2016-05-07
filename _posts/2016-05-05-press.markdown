@@ -1,0 +1,36 @@
+---
+layout: default
+title:  "Talks"
+date:   2016-05-05 22:11:43 -0700
+---
+##### Publications & Press
+
+*   **TBD Catalog**
+    The catalog of the near future’s normal ordinary everyday edited and published by **[The Near Future Laboratory](http://tbdcatalog.com/)**, August 2014.  
+    [» Purchase TBD Catalog](http://nearfuturelaboratory.myshopify.com/products/tbd-catalog).
+
+*   **Connecting**
+    A short film that explores trends in UI, Interaction, & Experience Design by **[Windows Phone Design Studio](https://twitter.com/wpdesignteam)**, December 2012.  
+    [» Watch Connecting](http://connectingthefilm.com/).
+
+*   **Designing for Billions of People.**
+    Asia Design Journal 2010 Design for Social Innovation, 2010\. Grignani R.  
+    [» Read article](http://asiadesignjournal.blogspot.com/2011/12/asia-design-journal-vol5.html).
+
+*   **GQ Korea.**
+    **Very Secret Issue 100**. June 2009.
+
+*   **CBC Radio Spark.**
+    **Episode 52: Raphael Grignani designs mobile phones for billions of people** hosted by Nora Young, November 2008.  
+    [» Listen](http://www.cbc.ca/radio/spark).
+
+*   **The Race for Perfect: Inside the Quest to Design the Ultimate Portable Computer**
+    by Steve Hamm published in September 2008.  
+    [» Buy on Amazon](http://www.amazon.com/Race-Perfect-Ultimate-Portable-Computer/dp/0071606106/ref=sr_1_1?ie=UTF8&s=books&qid=1232926898&sr=1-1).
+
+*   **The New York Times.**
+    **Hoping to Make Phone Buyers Flip** by Laura M. Holson published in February 2008.  
+    [» Read article](http://www.nytimes.com/2008/02/29/business/29cell.html?_r=1).
+
+*   **Where’s the phone? A study of Mobile Phone Location in Public Spaces.**
+    Mobility ’05\. Ichikawa, F., Chipchase J., & Grignani R.
