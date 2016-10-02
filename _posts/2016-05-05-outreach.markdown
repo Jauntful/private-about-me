@@ -3,7 +3,13 @@ layout: default
 title:  "Talks"
 date:   2016-05-05 22:11:43 -0700
 ---
-##### Academia & Workshops
+##### Academia &amp; Workshops
+
+*   **Customer Acquisition.**
+    **[Interaction Design Programme](http://ciid.dk/education/interaction-design-programme/)**, Aug 2016, at **[CIID](http://ciid.dk/)** in Copenhagen, Denmark.
+
+*   **Introduction pratique aux usages du design.**
+    Week long workshop taught jointly at **[ENSCI – Les Ateliers](http://www.ensci.com/)**, 2011-2016 in Paris, France.
 
 *   **Customer Relevance.**
     **[Master in Business Innovation](http://www.cedim.edu.mx/posgrado/maestrias/master-in-business-innovation/descripcion/)** Module 2, 2013-2014, at **[CEDIM](http://www.cedim.edu.mx/)** in Monterrey, Mexico City, Guadalajara, Mexico.
@@ -13,9 +19,6 @@ date:   2016-05-05 22:11:43 -0700
 
 *   **Industrial Design 6 Course.**
     Teaching **[CCA](http://www.cca.edu/academics/industrial-design)**‘s Undergraduate Program Industrial Design 6 course Spring 2013 with Colin Owen, Robert Murdock, and Parul Vora in San Francisco, USA.
-
-*   **Introduction pratique aux usages du design.**
-    Week long workshop taught jointly with [Nicolas Nova](http://liftlab.com/think/nova/) at **[ENSCI – Les Ateliers](http://www.ensci.com/)**, 2011-2013 in Paris, France.
 
 *   **Designing for Billions.**
     February 4, 2010 workshop at **[Interaction10](http://interaction.ixda.org/)** in Savannah, USA.
