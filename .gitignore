@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 
 _config.yml
+
+.DS_Store
