@@ -5,6 +5,9 @@ date:   2016-05-05 22:11:43 -0700
 ---
 ##### Talks
 
+*   **Designing with Velocity at Scale**  
+    Mar 2, 2016 talk at **[Interaction16](http://interaction16.ixda.org/)** in Helsinki, Finland.
+    
 *   **The Designer as Founder and CEO**  
     Feb 9, 2015 talk at **[Interaction15](http://interaction15.ixda.org/)** in San Francisco, USA.
 
