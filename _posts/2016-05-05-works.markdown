@@ -5,11 +5,11 @@ date:   2016-05-05 22:11:43 -0700
 ---
 ##### Selected Works
 *   **Messenger**  
-     Build a universal way for people to connect and be closer together.  
+     Building a universal way for people to connect and be closer together.  
     <span class="platform">Monetization, AI, Sharing</span>  
     [&raquo; Sign in](https://messenger.com/).
 *   **Pinterest**  
-    Pinterest helps you discover and do what you love. Find recipes, style inspiration, projects for your home and other ideas to try.  
+    Helping you discover and do what you love.  
     <span class="platform">Growth, Monetization</span>  
     [&raquo; Sign up today](https://pinterest.com/).
     
