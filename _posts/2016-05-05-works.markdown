@@ -4,16 +4,19 @@ title:  "Selected works"
 date:   2016-05-05 22:11:43 -0700
 ---
 ##### Selected Works
-
+*   **Messenger**  
+     Build a universal way for people to connect and be closer together.  
+    <span class="platform">Monetization, AI, Sharing</span>  
+    [&raquo; Sign in](https://messenger.com/).
+*   **Pinterest**  
+    Pinterest helps you discover and do what you love. Find recipes, style inspiration, projects for your home and other ideas to try.  
+    <span class="platform">Growth, Monetization</span>  
+    [&raquo; Sign up today](https://pinterest.com/).
+    
 *   **Jauntful**  
     Helping people and businesses share their favorite local recommendations.  
-    <span class="platform">CEO, Responsive Web, Print, Branding</span>  
-    [&raquo; Sign up today](https://jauntful.com/).
-
-*   **Accellion KiteWorks**  
-    Allowing teams anywhere to store, share, and access files with enterprise-level security and processes. Method, 2012.  
-    <span class="platform">iOS</span>  
-    [&raquo; Visit KiteWorks](http://www.accellion.com/solutions/for-enterprise-it).
+    <span class="platform">CEO, Product Development, Partnerships, Branding</span>  
+    [&raquo; Visit Jauntful](https://jauntful.com/).
 
 *   **Global Lives Project**  
     Creating a holistic identity able to live and grow in an interactive space. Method, 2012.  
@@ -29,11 +32,6 @@ date:   2016-05-05 22:11:43 -0700
     Empowering an artisan brand with a robust e-commerce experience. Method, 2011.  
     <span class="platform">Branding, Web, Magento</span>  
     [&raquo; Visit Heath Ceramics](http://www.heathceramics.com/).
-
-*   **GoogleTV 3.0**  
-    Redefining home entertainment at the intersection of TV and Internet. Method, 2011.  
-    <span class="platform">TV, Android</span>  
-    [&raquo; Visit Google TV](http://www.android.com/tv/).
 
 *   **Nokia Homegrown**  
     Working towards the most sustainable, ethical and desirable communication solutions for Nokia by placing sustainability first. Nokia, 2008.  
